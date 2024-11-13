@@ -71,42 +71,6 @@ Our SideProjector beta includes the following notable improvements:
 3. **Project Categories and Price Types:** Clear labeling of project types and pricing, allowing buyers to make better-informed decisions.
 4. **Scalability and Performance:** Optimized performance on both desktop and mobile, even with a high volume of listings.
 
-## 🛠️ Setting Up Locally (For Contributors)
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo/sideprojector-vercel.git
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Set Up Environment Variables:**
-   Create a `.env` file and add your MongoDB, Vercel, and NextAuth credentials:
-   ```plaintext
-   NEXT_PUBLIC_API_URL=<API URL>
-   MONGODB_URI=<MongoDB Connection String>
-   NEXTAUTH_URL=<NextAuth URL>
-   ```
-
-4. **Run the Development Server:**
-   ```bash
-   npm run dev
-   ```
-
-5. **Open your Browser:**
-   Visit [http://localhost:3000](http://localhost:3000) to view the app in development mode.
-
-## 📝 How to Contribute
-
-Contributions are welcome! Here’s how to get involved:
-
-- **Report Bugs:** Found a bug? Open an issue in the GitHub repository.
-- **Suggest Features:** Have an idea? Create a feature request issue.
-- **Submit Pull Requests:** Improve our code by submitting a PR.
-
 ## 🔥 Future Plans
 
 1. **Community Marketplace:** Enable community-based interactions, allowing developers to connect, collaborate, and co-develop projects.
