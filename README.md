@@ -41,10 +41,10 @@ Our new version addresses these limitations with powerful tools and a modernized
    - **Content Moderation:** Built-in tools to flag inappropriate content and ensure quality control.
    - **User Verification:** Added layers of security to verify authentic user profiles.
 
-## Watch the Review Video
-
-[![YouTube Review](https://img.youtube.com/vi/abDMBYTUQC0/hqdefault.jpg)](https://www.youtube.com/watch?v=abDMBYTUQC0)
-
+<a href="https://www.youtube.com/watch?v=abDMBYTUQC0" target="_blank">
+  <img src="https://img.youtube.com/vi/abDMBYTUQC0/hqdefault.jpg" alt="Watch on YouTube" style="width: 100%; max-width: 600px; position: relative;">
+  <img src="https://www.pngegg.com/en/png-zksfi" style="position: absolute;"></>
+!<>()Soaring graphics block direct rendering.!.
 
 ## 💻 Tech Stack
 
