@@ -41,6 +41,11 @@ Our new version addresses these limitations with powerful tools and a modernized
    - **Content Moderation:** Built-in tools to flag inappropriate content and ensure quality control.
    - **User Verification:** Added layers of security to verify authentic user profiles.
 
+## Watch the Review Video
+
+[![YouTube Review](https://img.youtube.com/vi/abDMBYTUQC0/hqdefault.jpg)](https://www.youtube.com/watch?v=abDMBYTUQC0)
+
+
 ## 💻 Tech Stack
 
 We chose a modern and scalable tech stack for this project:
